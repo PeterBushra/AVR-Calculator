@@ -1,2 +1,2 @@
 # AVR-Calculator
-Simple Scientfic Calculator using ATMega32
+Simple Scientific Calculator using ATMega32
